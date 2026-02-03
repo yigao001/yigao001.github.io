@@ -26,7 +26,7 @@ Advisors: [Professor Xin Xia](https://xin-xia.github.io/), Dr. Tongtong Xu
 - Tianjin University, Tianjin, China  
 
 M.S. in Software Engineering | Sep. 2017 - Jan. 2020   
-Advisor: [Professor Zan Wang](https://tjusail.github.io/people/wangzan.html)
+Advisor: [Professor Zan Wang](https://tjusail.github.io/people/wangzan.html) Co-advisor: [Associate Professor Shuang Liu](https://liushuangcs.github.io/)
 
 
 ---
