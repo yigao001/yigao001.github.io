@@ -64,7 +64,7 @@ Zirui Chen, Xing Hu\*, Xin Xia, **Yi Gao**, Tongtong Xu, David Lo, Xiaohu Yang
 
 
 7. **TECCD: A Tree Embedding Approach for Code Clone Detection**      
-**Yi Gao**, Zan Wang\*, Shuang Liu, Lin Yang, Wei Sang and Yuanfang Cai     
+**Yi Gao**, Zan Wang, Shuang Liu\*, Lin Yang, Wei Sang and Yuanfang Cai     
 *2019 IEEE International Conference on Software Maintenance and Evolution <span style="color:darkblue">(ICSME 2019, CCF-B)</span>*   
 
 
