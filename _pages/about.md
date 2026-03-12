@@ -15,6 +15,25 @@ I am fortunate to be advised by [Professor Xiaohu Yang](https://person.zju.edu.c
 
 ---
 
+
+### <img src="../images/edu.png" width="30" style="vertical-align: middle;">  Education & Experiences
+- Zhejiang University, Hangzhou, China
+
+Ph.D. in Software Engineering | Sep. 2022 – Present   
+Advisor: [Professor Xiaohu Yang](https://person.zju.edu.cn/xiaohu)  Co-advisors: [Professor Xin Xia](https://xin-xia.github.io/), [Associate Professor Xing Hu](https://xing-hu.github.io/)
+
+- Research Intern, Huawei, Hangzhou, China
+
+Sep. 2022 – Present  
+Advisors: [Professor Xin Xia](https://xin-xia.github.io/), Dr. Tongtong Xu
+
+- Tianjin University, Tianjin, China
+
+M.S. in Software Engineering | Sep. 2017 - Jan. 2020   
+Advisor: [Professor Zan Wang](https://tjusail.github.io/people/wangzan.html) Co-advisor: [Associate Professor Shuang Liu](https://liushuangcs.github.io/)
+
+---
+
 ### <img src="../images/paper.png" width="24" style="vertical-align: middle;"> Publications
 
 1. **IntentTester: Intent-Driven Multi-Agent Framework for Cross-Library Test Migration**    
@@ -52,22 +71,3 @@ Zirui Chen, Xing Hu\*, Xin Xia, **Yi Gao**, Tongtong Xu, David Lo, Xiaohu Yang
 *2019 IEEE International Conference on Software Maintenance and Evolution <span style="color:darkblue">(ICSME 2019, CCF-B)</span>*   
 
 
-
----
-
-
-### <img src="../images/edu.png" width="30" style="vertical-align: middle;">  Education & Experiences
-- Zhejiang University, Hangzhou, China
-
-Ph.D. in Software Engineering | Sep. 2022 – Present   
-Advisor: [Professor Xiaohu Yang](https://person.zju.edu.cn/xiaohu)  Co-advisors: [Professor Xin Xia](https://xin-xia.github.io/), [Associate Professor Xing Hu](https://xing-hu.github.io/)
-
-- Research Intern, Huawei, Hangzhou, China
-
-Sep. 2022 – Present  
-Advisors: [Professor Xin Xia](https://xin-xia.github.io/), Dr. Tongtong Xu
-
-- Tianjin University, Tianjin, China
-
-M.S. in Software Engineering | Sep. 2017 - Jan. 2020   
-Advisor: [Professor Zan Wang](https://tjusail.github.io/people/wangzan.html) Co-advisor: [Associate Professor Shuang Liu](https://liushuangcs.github.io/)
