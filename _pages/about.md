@@ -41,32 +41,42 @@ Advisor: [Professor Zan Wang](https://tjusail.github.io/people/wangzan.html) Co-
 *International Conference on the Foundations of Software Engineering (<span style="color:darkblue">FSE 2026, CCF-A</span>)*     
 
 
-2. **Depradar: Agentic Coordination for Context-Aware Defect Impact Analysis in Deep Learning Libraries**    
+2. **GUIMigrator: Semantics-Preserving Transpilation from Android XML to Compose and SwiftUI**    
+**Yi Gao**, Xing Hu\*, Xiaohu Yang, Xin Xia    
+*International Conference on the Foundations of Software Engineering (<span style="color:darkblue">FSE 2026, CCF-A</span>)*
+
+
+3. **Automated Knowledge-Aware Test Reuse**    
+Ziyuan Zhang, **Yi Gao**, Xing Hu, Xin Xia, Shanping Li
+*International Conference on the Foundations of Software Engineering (<span style="color:darkblue">FSE 2026, CCF-A</span>)*
+
+
+4. **Depradar: Agentic Coordination for Context-Aware Defect Impact Analysis in Deep Learning Libraries**    
 **Yi Gao**, Xing Hu\*, Tongtong Xu, Jiali Zhao, Xiaohu Yang, Xin Xia     
-*48th International Conference on Software Engineering <span style="color:darkblue">(ICSE 2026, CCF-A)</span>*      
+*48th International Conference on Software Engineering <span style="color:darkblue">(ICSE 2026, CCF-A)</span>*
 
 
-3. **Automated Unit Test Refactoring**       
+5. **Automated Unit Test Refactoring**       
 **Yi Gao**, Xing Hu\*, Xiaohu Yang, Xin Xia      
 *International Conference on the Foundations of Software Engineering <span style="color:darkblue">(FSE 2025, CCF-A)</span>*     
 
 
-4. **Vulnerability-Triggering Test Case Generation from Third-Party Libraries**     
+6. **Vulnerability-Triggering Test Case Generation from Third-Party Libraries**     
 **Yi Gao**, Xing Hu\*, Zirui Chen, Tongtong Xu, Xiaohu Yang    
 *2nd Conference on AI Foundation Models and Software Engineering <span style="color:darkblue">(FORGE 2025)</span>*     
 
 
-5. **MUT: Human-in-the-Loop Unit Test Migration**   
+7. **MUT: Human-in-the-Loop Unit Test Migration**   
 **Yi Gao**, Xing Hu\*, Tongtong Xu, Xin Xia, David Lo, Xiaohu Yang   
 *46th International Conference on Software Engineering <span style="color:darkblue">(ICSE 2024, CCF-A)</span>*   
 
 
-6. **Exploiting Library Vulnerability via Migration Based Automating Test Generation**            
+8. **Exploiting Library Vulnerability via Migration Based Automating Test Generation**            
 Zirui Chen, Xing Hu\*, Xin Xia, **Yi Gao**, Tongtong Xu, David Lo, Xiaohu Yang           
 *46th International Conference on Software Engineering <span style="color:darkblue">(ICSE 2024, CCF-A)</span>*
 
 
-7. **TECCD: A Tree Embedding Approach for Code Clone Detection**      
+9. **TECCD: A Tree Embedding Approach for Code Clone Detection**      
 **Yi Gao**, Zan Wang, Shuang Liu\*, Lin Yang, Wei Sang and Yuanfang Cai     
 *2019 IEEE International Conference on Software Maintenance and Evolution <span style="color:darkblue">(ICSME 2019, CCF-B)</span>*   
 
