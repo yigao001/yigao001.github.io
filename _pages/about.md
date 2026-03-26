@@ -47,7 +47,7 @@ Advisor: [Professor Zan Wang](https://tjusail.github.io/people/wangzan.html) Co-
 
 
 3. **Automated Knowledge-Aware Test Reuse**    
-Ziyuan Zhang, **Yi Gao**, Xing Hu, Xin Xia, Shanping Li
+Ziyuan Zhang, **Yi Gao**, Xing Hu, Xin Xia, Shanping Li   
 *International Conference on the Foundations of Software Engineering (<span style="color:darkblue">FSE 2026, CCF-A</span>)*
 
 
