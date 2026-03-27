@@ -42,7 +42,7 @@ Advisor: [Professor Zan Wang](https://tjusail.github.io/people/wangzan.html) Co-
 
 
 2. **GUIMigrator: Semantics-Preserving Transpilation from Android XML to Compose and SwiftUI**    
-**Yi Gao**, Xing Hu\*, Xiaohu Yang, Xin Xia    
+**Yi Gao**, Xing Hu, Xiaohu Yang, Xin Xia\*       
 *International Conference on the Foundations of Software Engineering (<span style="color:darkblue">FSE 2026, CCF-A</span>)*
 
 
